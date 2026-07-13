@@ -9,5 +9,9 @@ public class Literals {
         System.out.println(age + ch + f + d );
         System.out.println(ch + f + d );
         System.out.println(age + ch + f + d );
+        boolean a=true;
+        System.out.println(a);
+        String tres = "ASdaff";
+        System.out.println(tres);
     }
 }

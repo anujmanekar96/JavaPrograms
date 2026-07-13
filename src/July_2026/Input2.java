@@ -8,10 +8,10 @@ public class Input2 {
         System.out.println("This is addition of program");
         Scanner sca= new Scanner(System.in);
         System.out.println("Enter no.1");
-        int a= sca.nextInt();
-        System.out.println("Enter no.2");4
-        int b= sca.nextInt();
-        int sum= a+b;
+        float a= sca.nextFloat();
+        System.out.println("Enter no.2");
+        float b= sca.nextFloat();
+        float sum= a+b;
         System.out.println("Sum is " + sum);
      //   System.out.println(sum);
     }
